@@ -16,4 +16,4 @@
         ## - Assign this node to Assignment 3
 
 ![5](https://github.com/user-attachments/assets/a16d2fa7-e9fd-40d7-8e48-3c56730d4ed8)
-![6](https://github.com/user-attachments/assets/4586bfc0-5d9a-46c8-af4d-b95adf132753)
+![Screenshot from 2024-08-29 01-37-52](https://github.com/user-attachments/assets/38cb8693-e3f6-4221-9277-af829ca9368b)
