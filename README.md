@@ -9,7 +9,7 @@
         ## - Make sure at any point of time a maximum of 2 jobs can be executed on this node.
         ## - Assign this node to Assignment 2
 ![7](https://github.com/user-attachments/assets/cee65b70-491f-40dc-97a1-b000d236ef67)
-![8](https://github.com/user-attachments/assets/fa89814b-b5f4-4a5e-8847-4991ec9384d9)
+![Screenshot from 2024-08-29 01-35-53](https://github.com/user-attachments/assets/9be20109-88e8-46b3-bff3-111e16d5efa1)
 
 ## 3] Configure a CentOS node using Launch slave agents via SSH method.
         ## - Make sure at any point in time a maximum of 3 jobs can be executed on this node.
