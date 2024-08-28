@@ -8,10 +8,12 @@
 ## 2] Configure a RHEL node using  Launch slave agents via SSH method.
         ## - Make sure at any point of time a maximum of 2 jobs can be executed on this node.
         ## - Assign this node to Assignment 2
-![5](https://github.com/user-attachments/assets/a16d2fa7-e9fd-40d7-8e48-3c56730d4ed8)
-![6](https://github.com/user-attachments/assets/4586bfc0-5d9a-46c8-af4d-b95adf132753)
+![7](https://github.com/user-attachments/assets/cee65b70-491f-40dc-97a1-b000d236ef67)
+![8](https://github.com/user-attachments/assets/fa89814b-b5f4-4a5e-8847-4991ec9384d9)
+
 ## 3] Configure a CentOS node using Launch slave agents via SSH method.
         ## - Make sure at any point in time a maximum of 3 jobs can be executed on this node.
         ## - Assign this node to Assignment 3
-![7](https://github.com/user-attachments/assets/cee65b70-491f-40dc-97a1-b000d236ef67)
-![8](https://github.com/user-attachments/assets/fa89814b-b5f4-4a5e-8847-4991ec9384d9)
+
+![5](https://github.com/user-attachments/assets/a16d2fa7-e9fd-40d7-8e48-3c56730d4ed8)
+![6](https://github.com/user-attachments/assets/4586bfc0-5d9a-46c8-af4d-b95adf132753)
