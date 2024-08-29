@@ -1,8 +1,7 @@
 ## 1] Configure an Ubuntu node using the execution of a command on the master method.
         ## - Make sure at any point in time, a maximum of 5 jobs can be executed on this node.
          ## - Assign this node to Assignment 1
-![1](https://github.com/user-attachments/assets/f64308c6-9a7a-4a0b-9256-3aaaac34ec23)
-![2](https://github.com/user-attachments/assets/6bb10c86-07c8-4f69-bd6f-a2976f0f8bfa)
+
 ![3](https://github.com/user-attachments/assets/cb0ef4f1-2535-4077-8b02-c0d1c15bcdea)
 ![Screenshot 2024-08-29 at 1 14 34 AM](https://github.com/user-attachments/assets/b654b1f3-0a32-4c0f-bb91-0d24a4454215)
 ## 2] Configure a RHEL node using  Launch slave agents via SSH method.
